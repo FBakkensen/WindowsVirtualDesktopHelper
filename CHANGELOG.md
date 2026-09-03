@@ -15,6 +15,7 @@
 ## Changes
 * New permanent status overlay feature
 * Font configurations can have styles
+* Installer is now per-user (installs to `%LOCALAPPDATA%\Programs`) and no longer requires administrator rights
 
 
 
