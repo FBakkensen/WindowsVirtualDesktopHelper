@@ -43,7 +43,7 @@ Windows Virtual Desktop Helper needs the Microsoft .NET Framework 4.7 or higher 
 
 ### Setup
 
-You can install Windows Virtual Desktop Helper to your system using the setup program.
+You can install Windows Virtual Desktop Helper to your system using the setup program. The setup installs per-user into `%LOCALAPPDATA%\Programs` and does not require administrator rights.
 
 [Download WindowsVirtualDesktopHelper Setup v2.0.msi](https://github.com/dankrusi/WindowsVirtualDesktopHelper/releases/download/v2.0/WindowsVirtualDesktopHelper.Setup.v2.0.msi)
 
